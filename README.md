@@ -167,3 +167,5 @@ ________________________________________
 Generative AI and Large Language Models mark a turning point in AI’s evolution—from systems that only interpret data to those capable of original creation. Mastery of their principles—particularly the transformer architecture—alongside awareness of their limitations, applications, and scaling dynamics, will be essential for future engineers, researchers, and policymakers. As the technology matures, balancing innovation with ethical responsibility will define its true impact on society.
 
 # Result
+
+Generative AI is at the forefront of innovation, promising to reshape various industries by leveraging advanced models like transformers while addressing challenges of scaling and ethics.
