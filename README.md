@@ -156,8 +156,6 @@ Requirements:
 •	Time: Training can take weeks to months, depending on model scale and resources.
 ________________________________________
 8. APPLICATIONS OF GENERATIVE AI
-   
-Generative AI is already embedded in many industries:
 
 •	Healthcare → AI-assisted drug design, generation of synthetic medical images for training, predictive diagnosis.
 
